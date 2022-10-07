@@ -1,0 +1,40 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Samsung",
+            "src": "samsung.jpg",
+            "price": 17999
+        },
+        {
+            "id": 2,
+            "name": "vivo",
+            "src": "vivo.jpg",
+            "price": 16970
+        },
+        {
+            "id": 3,
+            "name": "oppo",
+            "src": "oppo.jpg",
+            "price": 7999
+        },
+        {
+            "id": 4,
+            "name": "Samsung Galaxy",
+            "src": "galaxy.jpg",
+            "price": 37999
+        },
+        {
+            "id": 5,
+            "name": "asus",
+            "src": "asus.jpg",
+            "price": 9989
+        },
+        {
+            "id": 6,
+            "name": "apple",
+            "src": "apple.jpg",
+            "price": 79999
+        }
+    ]
+}
